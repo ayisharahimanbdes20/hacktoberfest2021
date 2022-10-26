@@ -1,4 +1,4 @@
-# just change Add to sum two numbers wether in float or int
+## just change Add to sum two numbers wether in float or int
 num1 = 15.0
 num2 = 12.0
 
